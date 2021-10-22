@@ -1,0 +1,18 @@
+2021-10-13 07:32:37,288 ERROR d.UserDaoImpl [main] SQLException on createUser:ERROR: duplicate key value violates unique constraint "users_email_key"
+  Detail: Key (email)=(ariver@test.com) already exists.
+2021-10-13 07:32:38,103 ERROR d.UserDaoImpl [main] SQLException on createUser:ERROR: duplicate key value violates unique constraint "users_user_username_key"
+  Detail: Key (user_username)=(emp1) already exists.
+2021-10-13 07:32:39,649 ERROR d.UserDaoImpl [main] SQLException on createUser:ERROR: duplicate key value violates unique constraint "users_user_username_key"
+  Detail: Key (user_username)=(mgr4) already exists.
+2021-10-13 07:32:40,750 WARN c.MgrReimbController [main] MgrReimbController.retrieveEmplTickets - Filtered tickets retrieved
+2021-10-13 07:32:41,560 INFO c.MgrReimbController [main] MgrReimbController.retrieveEmplTickets - All tickets retrieved
+2021-10-13 07:32:41,648 INFO c.EmplReimbController [main] EmplReimbController.getUserTickets - Tickets retrieved
+2021-10-13 07:59:17,688 ERROR d.UserDaoImpl [main] SQLException on createUser:ERROR: duplicate key value violates unique constraint "users_email_key"
+  Detail: Key (email)=(ariver@test.com) already exists.
+2021-10-13 07:59:18,503 ERROR d.UserDaoImpl [main] SQLException on createUser:ERROR: duplicate key value violates unique constraint "users_user_username_key"
+  Detail: Key (user_username)=(emp1) already exists.
+2021-10-13 07:59:20,076 ERROR d.UserDaoImpl [main] SQLException on createUser:ERROR: duplicate key value violates unique constraint "users_user_username_key"
+  Detail: Key (user_username)=(mgr4) already exists.
+2021-10-13 07:59:21,345 WARN c.MgrReimbController [main] MgrReimbController.retrieveEmplTickets - Filtered tickets retrieved
+2021-10-13 07:59:22,248 INFO c.MgrReimbController [main] MgrReimbController.retrieveEmplTickets - All tickets retrieved
+2021-10-13 07:59:22,383 INFO c.EmplReimbController [main] EmplReimbController.getUserTickets - Tickets retrieved

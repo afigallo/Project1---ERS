@@ -1,0 +1,11 @@
+
+H
+java:S4925"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ
+]
+java:S34577"AFormat specifiers should be used instead of string concatenation.(ÑÈµ28¤­æÄÇ/
+^
+java:S3457O"AFormat specifiers should be used instead of string concatenation.(Šäã®8Ò–çÄÇ/
+e
+java:S2095'"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+e
+java:S2095F"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª

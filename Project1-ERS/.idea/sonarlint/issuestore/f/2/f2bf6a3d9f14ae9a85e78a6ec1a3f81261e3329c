@@ -1,0 +1,15 @@
+
+?
+java:S3010"$Remove this assignment of "userDao".(ÉÖœ…üÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(ÉÖœ…üÿÿÿÿ
+?
+java:S3010"$Remove this assignment of "userDao".(Þ¯š‘üÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(Þ¯š‘üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†–»Óøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ý³ççÿÿÿÿÿ
+c
+java:S3457("AFormat specifiers should be used instead of string concatenation.(–½™ñøÿÿÿÿ8¾õÖÄÇ/
+Y
+java:S2629("7Use the built-in formatting to construct this argument.(–½™ñøÿÿÿÿ8¾õÖÄÇ/

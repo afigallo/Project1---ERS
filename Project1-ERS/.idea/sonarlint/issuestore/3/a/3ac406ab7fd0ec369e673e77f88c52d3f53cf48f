@@ -1,0 +1,7 @@
+
+U
+java:S2441;":Make "User" serializable or don't store it in the session.(«Ø£ûþÿÿÿÿ
+l
+java:S11922"QDefine a constant instead of duplicating this literal "application/json" 3 times.(›ý’Àøÿÿÿÿ
+f
+java:S1192;"KDefine a constant instead of duplicating this literal "activeUser" 4 times.(«Ø£ûþÿÿÿÿ
